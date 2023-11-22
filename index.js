@@ -1,4 +1,6 @@
 console.clear()
 console.log('Hello World')
 console.log('Commit on Local')
+console.log('Comentario de teste 2, direto no github')
 console.log('Edit on Server')
+console.log('Comentario de teste 2, direto no github')
